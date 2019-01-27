@@ -10,3 +10,4 @@ public class MyHairProjectApplication {
 		SpringApplication.run(MyHairProjectApplication.class, args);
 	}
 }
+
